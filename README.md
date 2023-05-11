@@ -7,7 +7,7 @@ All files in this repository have been updated as of April 2023 to reflect the n
 
 Using the CCRB complaint history data, which the NYCLU obtained through a Freedom of Information Law (FOIL) request, the NYCLU built a search tool to make the information more accessible: [nyclu.org/nypdrecords] (https://www.nyclu.org/en/campaigns/nypd-misconduct-database).  Each row of the database represents a unique complaint made against an NYPD officer, including the officer’s name, race or ethnicity, rank, and command (the NYPD unit where the officer was assigned at the time that the complaint was filed). It is not uncommon for a single police-civilian encounter to result in multiple complaints against the same officer or against multiple officers. Details about the CCRB investigation process can be found on their website. The CCRB also has a tool with up-to-date data on their website but includes less information for each complaint.
 
-`CCRB FileSpecs 04.28.2021.xlsx` is a spreadsheet containing
+`CCRB FileSpecs 04.28.2023.xlsx` is a spreadsheet containing
 1.	Information about each variable in the spreadsheet.
 2.	Information clarifying some of the abbreviations used in the database
 3.	Differences between the raw data file and the version that is accessible through the interactive tool
